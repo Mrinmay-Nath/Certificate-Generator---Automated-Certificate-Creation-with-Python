@@ -2,6 +2,17 @@
 
 This Python script generates certificates based on user input. It uses the easygui library for the GUI and pathlib for handling file paths.
 
+# ScreenShorts
+<img src="https://raw.githubusercontent.com/Mrinmay-Nath/Certificate-Generator---Automated-Certificate-Creation-with-Python/main/certificate-template.jpg" height="500px">
+
+# CODE
+<img src="https://raw.githubusercontent.com/Mrinmay-Nath/Certificate-Generator---Automated-Certificate-Creation-with-Python/main/code.png" height="500px">
+
+# UI
+<img src="https://raw.githubusercontent.com/Mrinmay-Nath/Certificate-Generator---Automated-Certificate-Creation-with-Python/main/UI.png" height="300px">
+
+
+
 ## Dependencies
 - easygui: A module for very simple, very easy GUI programming in Python.
 - pathlib: A built-in Python library used for creating and manipulating filesystem paths.
