@@ -1,0 +1,5 @@
+argparse
+opencv-python
+logging
+pathlib2
+easygui
